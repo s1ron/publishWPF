@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <item>
-  <version>v1.2.4</version>
-  <url>https://github.com/s1ron/RepoTestAutoUpdate/releases/latest/download/WpfApp1-v1.2.4.zip</url>
+  <version>v1.2.5</version>
+  <url>https://github.com/s1ron/RepoTestAutoUpdate/releases/latest/download/WpfApp1-v1.2.5.zip</url>
   <changelog>https://github.com/s1ron/RepoTestAutoUpdate/releases</changelog>
   <mandatory>true</mandatory>
   </item>
